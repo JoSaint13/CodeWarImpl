@@ -73,6 +73,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="CountTheMonkeyMonkeyTests.cs" />
+    <Compile Include="RotateMatrixTests.cs" />
     <Compile Include="StringMixTest.cs" />
     <Compile Include="ValidationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
