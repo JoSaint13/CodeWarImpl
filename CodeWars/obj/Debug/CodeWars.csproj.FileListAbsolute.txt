@@ -1,0 +1,17 @@
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.abstractions.dll
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.runner.utility.desktop.dll
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.assert.dll
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.core.dll
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.dll
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.assert.pdb
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.assert.xml
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.core.pdb
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.core.xml
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.pdb
+c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.xml
