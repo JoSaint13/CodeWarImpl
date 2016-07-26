@@ -15,3 +15,21 @@ c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Deb
 c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.core.xml
 c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.pdb
 c:\users\josaint\documents\visual studio 2015\Projects\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.xml
+C:\Work\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Work\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+C:\Work\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.abstractions.dll
+C:\Work\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+C:\Work\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.assert.dll
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.core.dll
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.dll
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.assert.pdb
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.assert.xml
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.core.pdb
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.core.xml
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.pdb
+C:\Work\CodeWars\CodeWars\bin\Debug\xunit.execution.desktop.xml
+C:\Work\CodeWars\CodeWars\obj\Debug\CodeWars.csprojResolveAssemblyReference.cache

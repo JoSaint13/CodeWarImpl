@@ -21,3 +21,26 @@ C:\Users\JoSaint\Documents\Visual Studio 2015\Projects\CodeWars\BracesTests\obj\
 C:\Users\JoSaint\Documents\Visual Studio 2015\Projects\CodeWars\BracesTests\obj\Debug\BracesTests.pdb
 C:\Users\JoSaint\Documents\Visual Studio 2015\Projects\CodeWars\BracesTests\bin\Debug\nunit.framework.dll
 C:\Users\JoSaint\Documents\Visual Studio 2015\Projects\CodeWars\BracesTests\bin\Debug\nunit.framework.xml
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.abstractions.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\BracesTests.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\BracesTests.pdb
+C:\Work\CodeWars\BracesTests\bin\Debug\CodeWars.exe
+C:\Work\CodeWars\BracesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\nunit.framework.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.assert.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.core.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.execution.desktop.dll
+C:\Work\CodeWars\BracesTests\bin\Debug\CodeWars.pdb
+C:\Work\CodeWars\BracesTests\bin\Debug\nunit.framework.xml
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.assert.pdb
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.assert.xml
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.core.pdb
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.core.xml
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.execution.desktop.pdb
+C:\Work\CodeWars\BracesTests\bin\Debug\xunit.execution.desktop.xml
+C:\Work\CodeWars\BracesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Work\CodeWars\BracesTests\obj\Debug\BracesTests.csprojResolveAssemblyReference.cache
+C:\Work\CodeWars\BracesTests\obj\Debug\BracesTests.dll
+C:\Work\CodeWars\BracesTests\obj\Debug\BracesTests.pdb
