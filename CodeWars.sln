@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars", "CodeWars\CodeWars.csproj", "{C84C4C8D-6C9C-487D-9188-296FD98EF669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracesTests", "BracesTests\BracesTests.csproj", "{A7AB11F8-02D6-4B3C-8FB4-9DFB4821243B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarTests", "BracesTests\CodeWarTests.csproj", "{A7AB11F8-02D6-4B3C-8FB4-9DFB4821243B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

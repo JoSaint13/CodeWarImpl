@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CodeWars
+﻿namespace CodeWars
 {
     public static class RotateMatrix
     {

@@ -63,6 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BracesClass.cs" />
+    <Compile Include="LevensteinDistance.cs" />
+    <Compile Include="StringKata.cs" />
     <Compile Include="CountTheMonkeys.cs" />
     <Compile Include="DoubleChar.cs" />
     <Compile Include="EaseTheStockBroker.cs" />
@@ -70,6 +72,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RotateMatrix.cs" />
     <Compile Include="StringsMix.cs" />
+    <Compile Include="TwiceLinear.cs" />
     <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>

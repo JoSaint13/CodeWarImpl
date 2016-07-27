@@ -1,7 +1,7 @@
 ﻿using CodeWars;
 using Xunit;
 
-namespace BracesTests
+namespace CodeWarTests
 {
     public class CountTheMonkeyMonkeyTests
     {
