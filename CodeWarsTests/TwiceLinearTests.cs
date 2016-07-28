@@ -3,13 +3,15 @@ using Xunit;
 
 namespace CodeWarTests
 {
-
     public class TwiceLinearTests
     {
         [Fact]      
         public void Twice()
         {
-            TwiceLinear.DblLinear(10);
+
+            Assert.Equal(22, TwiceLinear.DblLinear(10));
+
+            
         }
     }
 }
