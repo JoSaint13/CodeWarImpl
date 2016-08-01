@@ -50,3 +50,4 @@ C:\Work\CodeWarImpl\CodeWars\bin\Debug\xunit.execution.desktop.pdb
 C:\Work\CodeWarImpl\CodeWars\bin\Debug\xunit.execution.desktop.xml
 C:\Work\CodeWarImpl\CodeWars\obj\Debug\CodeWars.exe
 C:\Work\CodeWarImpl\CodeWars\obj\Debug\CodeWars.pdb
+C:\Work\CodeWarImpl\CodeWars\obj\Debug\CodeWars.csprojResolveAssemblyReference.cache
