@@ -59,6 +59,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlgothmsKataTests.cs" />
     <Compile Include="CountTheMonkeyMonkeyTests.cs" />
     <Compile Include="LevensteinDistanceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

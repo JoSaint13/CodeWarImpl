@@ -25,13 +25,27 @@ namespace CodeWarsTests
         [Fact]
         public void ShoulShiftVowel()
         {
-            Assert.Equal("This is a test!", StringKata.VowelShifting("This is a test!", 0));
-
-            _output.WriteLine("Thes is i tast!");
-            var actual1 = StringKata.VowelShifting("This is a test!", 1);
-            _output.WriteLine(actual1);
-            Assert.Equal("Thes is i tast!", actual1);
+            Assert.Equal("This is a test!", StringKata.VowelShifting("This is a test!", 0));         
+            Assert.Equal("Thes is i tast!", StringKata.VowelShifting("This is a test!", 1));
             Assert.Equal("This as e tist!", StringKata.VowelShifting("This is a test!", 3));
+            Assert.Equal("This is a test!", StringKata.VowelShifting("This is a test!", 4));
+            Assert.Equal("This as e tist!", StringKata.VowelShifting("This is a test!", -1));
+            Assert.Equal("This as e tist!", StringKata.VowelShifting("This is a test!", -5));
+            Assert.Equal("aTkbh DQjkWzFi mLggOuT JO.", StringKata.VowelShifting("OTkbh DQjkWzFa mLggiOT Ju.", -46));
+        }
+
+        [Fact]
+        public void ShoulShiftVowel2()
+        {
+            Assert.Equal("QCTxobgv WvzhS i mORu.", StringKata.VowelShifting2("QCTxibgv WvzhS u mORo.", -4));
+            Assert.Equal("aTkbh DQjkWzFi mLggOuT JO.", StringKata.VowelShifting2("OTkbh DQjkWzFa mLggiOT Ju.", -46));
+        }
+
+        [Fact]
+        public void ShoulShiftVowel3()
+        {
+            Assert.Equal("QCTxobgv WvzhS i mORu.", StringKata.VowelShifting3("QCTxibgv WvzhS u mORo.", -4));
+            Assert.Equal("aTkbh DQjkWzFi mLggOuT JO.", StringKata.VowelShifting3("OTkbh DQjkWzFa mLggiOT Ju.", -46));
         }
     }
 }
