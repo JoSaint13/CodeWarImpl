@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlgorithmsKata.cs" />
+    <Compile Include="ArrayKata.cs" />
     <Compile Include="BracesClass.cs" />
     <Compile Include="LevensteinDistance.cs" />
     <Compile Include="StringKata.cs" />

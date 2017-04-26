@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Numerics;
 using CodeWars;
 using Xunit;
 using Xunit.Abstractions;
@@ -46,6 +49,27 @@ namespace CodeWarsTests
         {
             Assert.Equal("QCTxobgv WvzhS i mORu.", StringKata.VowelShifting3("QCTxibgv WvzhS u mORo.", -4));
             Assert.Equal("aTkbh DQjkWzFi mLggOuT JO.", StringKata.VowelShifting3("OTkbh DQjkWzFa mLggiOT Ju.", -46));
+        }
+
+        public static string sumStrings(string a, string b)
+        {
+
+           var list = new List<int>() { 1, 2, 2, 2, 4, 3, 4, 5, 6, 7 };
+            list.Add(1);
+
+            new List<int>(list.Take(list.Count-1).AsEnumerable());
+            list.AsEnumerable();
+           
+            
+
+            list.Add(1);
+
+
+            var lsit2 = new List<int>(  );
+            
+            var ba = BigInteger.Parse(string.IsNullOrEmpty(a) ? "0" : a);
+            var bb = BigInteger.Parse(string.IsNullOrEmpty(b) ? "0" : b);
+            return (ba + bb).ToString();
         }
     }
 }
